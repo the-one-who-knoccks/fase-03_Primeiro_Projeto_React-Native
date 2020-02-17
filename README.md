@@ -3,6 +3,15 @@
 Desenvolvimento de aplicação mobile consumindo api do Github e listando usuários e seus repositórios favoritos.
 Desenvolvida durante o Bootcamp GoStack da rocketseat
 
+Instalação: 
+
+Faça download ou clone o repositorio.
+
+Na pasta pelo terminal,rode "yarn"
+
+Depois depois rode o comando  "react-native run-android" ou "react-native run-ios" e por fim, yarn start.
+
+
 Imagem da aplicação
 
 <img src="preview/prev01.png">
