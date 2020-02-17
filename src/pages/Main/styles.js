@@ -36,7 +36,7 @@ export const SubmitButton = styled(RectButton)`
 `;
 
 export const List = styled.FlatList.attrs({
-  showVerticalScrollIndicatgor: false,
+  showVerticalScrollIndicator: false,
 })`
   margin-top: 20px;
 `;
