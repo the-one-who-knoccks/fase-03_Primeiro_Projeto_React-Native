@@ -1,7 +1,7 @@
 # fase-03_Primeiro_Projeto_React-Native
 
 Desenvolvimento de aplicação mobile consumindo api do Github e listando usuários e seus repositórios favoritos.
-Desenvolvida durante o Bootcamp GoStack da rocketseat
+Aplicação desenvolvida durante o Bootcamp GoStack da rocketseat
 
 # Instalação: 
 
