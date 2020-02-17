@@ -5,11 +5,11 @@ Desenvolvida durante o Bootcamp GoStack da rocketseat
 
 Imagem da aplicação
 
-<img src="preview/prev01">
+<img src="preview/prev01.png">
 </br>
 
-<img src="preview/prev02">
+<img src="preview/prev02.png">
 </br>
 
-<img src="preview/prev03">
+<img src="preview/prev03.png">
 </br>
