@@ -5,11 +5,11 @@ Desenvolvida durante o Bootcamp GoStack da rocketseat
 
 # Instalação: 
 
-Faça download ou clone o repositorio.
+Faça download ou clone o repositório.
 
-Na pasta pelo terminal,rode "yarn"
+Dentro da pasta, abra o terminal e rode o comando "yarn".
 
-Depois depois rode o comando  "react-native run-android" ou "react-native run-ios" e por fim, yarn start.
+Depois rode o comando  "react-native run-android" ou "react-native run-ios" e por fim, rode o comando yarn start.
 
 
 Imagem da aplicação
